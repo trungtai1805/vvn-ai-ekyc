@@ -35,11 +35,11 @@
         {
           "name": "smartekyc-1.0.0.aar",
           "url": "smartekyc-1.0.0.aar",
-          "size": 854989,
-          "sha512": "97fa2b18d0505ad1e722e28c672357768d9f8a63d4185d69641f56ab644d499a8ff8277052e707a022e30ec4e95ab36ea27a6cab2594ab785511e98998601cfc",
-          "sha256": "f047515daf84f952a4206196f26432fc6dc53bccf9c8fb1479d4b85c8a348242",
-          "sha1": "dd5f31f311671257ad11a863c9defe46fd404247",
-          "md5": "357bb5b4fec40005dc075bcafc677a5d"
+          "size": 863510,
+          "sha512": "6935b88e9c73273da2a6b816e080c2a506d121f0ec6c84c4262b11d1bebbdd077f348e5599e3074ed757d6a58eb4c4c74289c6590e310c09da208b9f3ce5414f",
+          "sha256": "5ef38d8ae91441cb6182621bd4c1c04cfa2bfffe8140a4a97abe1c24986f0e21",
+          "sha1": "6d0b3eb7c41a30897c1ecf189834c752ab99bab3",
+          "md5": "1a096ed936571e9502dca305eec4246a"
         }
       ]
     },
@@ -267,11 +267,11 @@
         {
           "name": "smartekyc-1.0.0.aar",
           "url": "smartekyc-1.0.0.aar",
-          "size": 854989,
-          "sha512": "97fa2b18d0505ad1e722e28c672357768d9f8a63d4185d69641f56ab644d499a8ff8277052e707a022e30ec4e95ab36ea27a6cab2594ab785511e98998601cfc",
-          "sha256": "f047515daf84f952a4206196f26432fc6dc53bccf9c8fb1479d4b85c8a348242",
-          "sha1": "dd5f31f311671257ad11a863c9defe46fd404247",
-          "md5": "357bb5b4fec40005dc075bcafc677a5d"
+          "size": 863510,
+          "sha512": "6935b88e9c73273da2a6b816e080c2a506d121f0ec6c84c4262b11d1bebbdd077f348e5599e3074ed757d6a58eb4c4c74289c6590e310c09da208b9f3ce5414f",
+          "sha256": "5ef38d8ae91441cb6182621bd4c1c04cfa2bfffe8140a4a97abe1c24986f0e21",
+          "sha1": "6d0b3eb7c41a30897c1ecf189834c752ab99bab3",
+          "md5": "1a096ed936571e9502dca305eec4246a"
         }
       ]
     }
