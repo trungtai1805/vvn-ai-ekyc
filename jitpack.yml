@@ -1,3 +1,8 @@
-install: 
-  - FILE="-Dfile=1.0.0/smartekyc-1.0.0.aar" 
-  - mvn install:install-file $FILE -DgroupId=vvn.ai.smartekyc -DartifactId=smartekyc -Dversion=1.0 -Dpackaging=aar -DgeneratePom=true
+install:
+  - mvn install:install-file
+    -Dfile=1.0.0/smartekyc-1.0.0.aar
+    -DpomFile=1.0.0/smartekyc-1.0.0.pom
+    -DgroupId=vvn.ai.smartekyc
+    -DartifactId=smartekyc
+    -Dversion=1.0
+    -Dpackaging=arr
